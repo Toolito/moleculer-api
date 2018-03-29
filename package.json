@@ -1,0 +1,18 @@
+{
+  "name": "service-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fakerator": "0.3.0",
+    "lodash": "4.17.5",
+    "moleculer": "0.12.1",
+    "moleculer-web": "0.6.4"
+  }
+}
